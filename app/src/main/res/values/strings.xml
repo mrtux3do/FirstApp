@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">FirstApp</string>
     <string name="login">Login</string>
-    <string name="user">Username</string>
+    <string name="email">Email</string>
     <string name="pass">Password</string>
     <string name="forgot">Forgot password</string>
 </resources>
